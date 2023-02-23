@@ -39,7 +39,8 @@ This homework is to specify a Future Home application and describe the key featu
 5. 互動教具：字卡, 跳棋, ...
 
 ### 系統方塊圖
-![](https://github.com/sijop/MCU-project/blob/main/images/lisa.jfif)
+![](https://github.com/sijop/MCU-project/blob/main/images/lisa.jfif?Raw=true)
+
 ### Reference
 <iframe width="1239" height="697" src="https://www.youtube.com/embed/aVway6Y1NC4" title="我真的單飛嗎！？50萬QA不怕你問！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
