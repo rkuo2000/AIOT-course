@@ -39,14 +39,13 @@ This homework is to specify a Future Home application and describe the key featu
 5. 互動教具：字卡, 跳棋, ...
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_companion_robot.png?raw=true)
 ![](https://github.com/sijop/MCU-project/blob/main/images/%E4%B8%8B%E8%BC%89.jfif)
 ---
 ## Design Methodology (設計方法)
 * Top-Down Design  ：由上層應用分析再區分出下層個別功能及所需軟硬體設計
 * Bottom-Up Design ：由底層軟硬體元件往上組合出上層所需應用功能
 
-![](<iframe width="1239" height="697" src="https://www.youtube.com/embed/zwWg6hkj6mU" title="【釣魚日記】居然一個人包池的雲海溫泉….還有竿竿咬的點...新手也不會喊累..真是完美的一趟旅程........fishing｜采蓁 Patti ＠雲海溫泉" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+![](<iframe width="1239" height="697" src="https://www.youtube.com/embed/aVway6Y1NC4" title="我真的單飛嗎！？50萬QA不怕你問！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
 ---
 ## Market Analysis (市場分析)
 ![](https://blog.hubspot.com/hs-fs/hubfs/tam-sam-som.png?width=1200&name=tam-sam-som.png)
