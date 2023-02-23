@@ -95,19 +95,6 @@ The Target Market size (TAM) of Future Home Products is the number of household.
 * [Number of Households in UK ](https://www.ibisworld.com/uk/bed/number-of-households/44090/)
 * [Number of households in the United Kingdom in 2020, by type of household(in 1,000s)](https://www.statista.com/statistics/961002/households-in-the-united-kingdom-uk-by-type/)<br>
 
----
-### Canada Households = 10.5M (加拿大 1千萬戶)
-* [Number of families in Canada from 2006 to 2021(in millions)](https://www.statista.com/statistics/443323/families-in-canada/)
-
-### Mexico Households = 34.8M (墨西哥 3千4百萬戶)
-* [Number of Households in Mexico](https://www.helgilibrary.com/indicators/number-of-households/mexico/) 
-
----
-### Brazil Households = 72.4M (巴西 7千2百萬戶)
-* [Number of households in Brazil from 2012 to 2019(in 1,000s)](https://www.statista.com/statistics/870646/brazil-number-households/)
-
-### Argentina Households = 13.8M (阿根廷 1千3百萬戶)
-* [Number of Households in Argentina](https://www.helgilibrary.com/indicators/number-of-households/argentina/)
 
 <br>
 <br>
