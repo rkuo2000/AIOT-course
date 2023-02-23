@@ -7,12 +7,6 @@ tags: [jekyll, ai]
 ---
 
 This homework is to specify a Future Home application and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
-
----
-**Home Spaces:**<br>
-
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_spaces.png?raw=true)
-
 ---
 ### Homework Report
 **Contents:**<br>
