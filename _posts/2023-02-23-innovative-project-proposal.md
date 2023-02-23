@@ -40,40 +40,9 @@ This homework is to specify a Future Home application and describe the key featu
 
 ### 系統方塊圖
 ![](https://github.com/sijop/MCU-project/blob/main/images/%E4%B8%8B%E8%BC%89.jfif)
----
-## Design Methodology (設計方法)
-* Top-Down Design  ：由上層應用分析再區分出下層個別功能及所需軟硬體設計
-* Bottom-Up Design ：由底層軟硬體元件往上組合出上層所需應用功能
 
-![](<iframe width="1239" height="697" src="https://www.youtube.com/embed/aVway6Y1NC4" title="我真的單飛嗎！？50萬QA不怕你問！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
----
-## Market Analysis (市場分析)
-![](https://blog.hubspot.com/hs-fs/hubfs/tam-sam-som.png?width=1200&name=tam-sam-som.png)
-
----
-### TAM of Future Home Products
-The Target Market size (TAM) of Future Home Products is the number of household.<br>
-
----
-### Taiwan Households = 8.93M (台灣 9百萬戶）
-* [Total number of households in Taiwan from 2010 to 2020(in 1,000s)](https://www.statista.com/statistics/330804/taiwan-national-total-number-of-households/#:~:text=By%20the%20end%20of%202020,households%20in%20the%20previous%20year.)
-
-### Japan Households = 57.2M (日本 5千7百萬戶)
-* [Number of Households in Japan](https://www.helgilibrary.com/indicators/number-of-households/japan/) 
-
----
-### American Households = 129.93M (美國 1.3億戶)
-* [Number of households in the U.S. from 1960 to 2021(in millions)](https://www.statista.com/statistics/183635/number-of-households-in-the-us/)<br>
-* [The average American household consisted of 2.51 people in 2021.](https://www.statista.com/statistics/183648/average-size-of-households-in-the-us/)<br>
----
-### France Households = 29.7M 
-* [Number of Households in France](https://www.helgilibrary.com/indicators/number-of-households/france/)
-* The average household size in France in 2020 is **2.2** people per household.
-
----
-### UK Households = 28.267M 
-* [Number of Households in UK ](https://www.ibisworld.com/uk/bed/number-of-households/44090/)
-* [Number of households in the United Kingdom in 2020, by type of household(in 1,000s)](https://www.statista.com/statistics/961002/households-in-the-united-kingdom-uk-by-type/)<br>
+### Reference
+<iframe width="1239" height="697" src="https://www.youtube.com/embed/aVway6Y1NC4" title="我真的單飛嗎！？50萬QA不怕你問！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <br>
