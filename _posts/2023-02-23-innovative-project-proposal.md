@@ -18,7 +18,7 @@ This homework is to specify a Future Home application and describe the key featu
 * **系統方塊圖**
   - Draw a System Block Diagram
 ---
-![](https://github.com/sijop/MCU-project/blob/main/images/%E4%B8%8B%E8%BC%89.jfif)
+
 ## 互動伴學機器人
 ### 應用功能說明
 1. 外語學習
@@ -40,7 +40,7 @@ This homework is to specify a Future Home application and describe the key featu
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_companion_robot.png?raw=true)
-
+![](https://github.com/sijop/MCU-project/blob/main/images/%E4%B8%8B%E8%BC%89.jfif)
 ---
 ## Design Methodology (設計方法)
 * Top-Down Design  ：由上層應用分析再區分出下層個別功能及所需軟硬體設計
