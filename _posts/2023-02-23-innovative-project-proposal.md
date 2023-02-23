@@ -9,16 +9,6 @@ tags: [jekyll, ai]
 This homework is to specify a Future Home application and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
 ---
-## Futre Home Applications
-
-### Nextflix movie: Big Bug
-<iframe width="993" height="559" src="https://www.youtube.com/embed/FWUkh23vBhs" title="BIGBUG Trailer (2022)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-**Service Robots:**<br>
-
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_robots.png?raw=true)
-
----
 **Home Spaces:**<br>
 
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_spaces.png?raw=true)
