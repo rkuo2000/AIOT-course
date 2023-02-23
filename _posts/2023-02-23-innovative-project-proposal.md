@@ -64,27 +64,6 @@ The Target Market size (TAM) of Future Home Products is the number of household.
 ### American Households = 129.93M (美國 1.3億戶)
 * [Number of households in the U.S. from 1960 to 2021(in millions)](https://www.statista.com/statistics/183635/number-of-households-in-the-us/)<br>
 * [The average American household consisted of 2.51 people in 2021.](https://www.statista.com/statistics/183648/average-size-of-households-in-the-us/)<br>
-
----
-### [Number of private households in selected European countries in 2020](https://www.statista.com/statistics/868008/number-of-private-households-in-the-eu/)
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Households_number_Europe2020.png?raw=true)
-* Germany households = 40,120.9K **(德國 4千萬戶)**
-* France households  = 30,304K **(法國 3千萬戶)**
-* United Kingdom households = 27,792K **(英國 2千8百萬戶)**
-* Italy households = 26,079K **(義大利 2千6百萬戶)**
-* Turkey households = 24,920.1K **(土耳其 2千5百萬戶)**
-* Spain households = 18,793.9K **(西班牙 1千9百萬戶)**
-* Poland households = 14,723.6K **(波蘭 1千5百萬戶)**
-
----
-### Germany Households = 40.546M (in 2020)
-* [Number of households in Germany from 2000 to 2020, by size(in 1,000)](https://www.statista.com/statistics/464187/households-by-size-germany/) 
-  - one person: 16,476K
-  - two persons: 13,778K
-  - three persons: 4,915K
-  - four persons: 3,970K
-  - five persons: 1,407K
-  
 ---
 ### France Households = 29.7M 
 * [Number of Households in France](https://www.helgilibrary.com/indicators/number-of-households/france/)
