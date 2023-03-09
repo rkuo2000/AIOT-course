@@ -36,7 +36,7 @@ This homework is to specify a Future Home application and describe the key featu
 2. 語音辨識與輸出： Speech Recognition & Text-To-Speech (AppInventor 2)
 3. 外語教學：AI對答
 4. 指頭操作：觸控 & 吸盤式電磁頭
-5. 互動教具：字卡, 跳棋, ...
+5. 互動教具：字卡, 跳棋,
 
 ### 系統方塊圖
 ![](https://github.com/sijop/MCU-project/blob/main/images/lisa.jfif?raw=true)
