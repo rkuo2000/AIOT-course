@@ -26,8 +26,10 @@
 3. 聯網方式: WiFi 或 BLE 連至 手機電腦
 
 **所需相關技術：**
-1. 影像傳輸: ESP32-CAM模組
-2. 歸化入線: 手機電腦 + Cloud database
+1. 監控及打掃路線: 手機電腦 + Cloud database
+2. 影像傳輸: ESP32-CAM模組
+3. 控制:PID controller
+
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_flying_robot.png?raw=true)
