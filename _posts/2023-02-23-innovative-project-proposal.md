@@ -1,8 +1,4 @@
 ## Futre Home Applications
-**Home Spaces:**<br>
-
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_spaces.png?raw=true)
-
 ---
 ### Homework Report
 **Contents:**<br>
@@ -43,78 +39,6 @@
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_flying_robot.png?raw=true)
 
 ---
-## 花房照護機器人
-### 應用功能說明
-1. 查看各植物生長情形
-2. 溫濕度感測+二氧化碳感測+照度感測
-3. 噴霧器施肥+澆水
-4. 遙控照明裝置
-5. 雷射殺蟲
-
-### 設計考量與相關技術
-**系統設計考量：**<br>
-1. 移動方式:共軸雙旋翼
-2. 供電方式:電池＋自動充電
-3. 聯網方式: WiFi
-
-**所需相關技術：**
-1. 飛行姿態偵測與控制: ESP32 + MPU6050 + PID controller
-2. 溫濕度感測 & 空氣品質感測: HTU21D + MQ135
-3. 紅外線遙控: IR-LED 
-4. 影像辨識: Jetson Nano + IMX219(攝影頭)
-5. 服務器: SmartPhone + Cloud database
-   - 任務規劃與控制: Mission Planner with Floorplan
-
-### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_greenhouse_keeper.png?raw=true)
-
----
-## 料理機器人
-### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
-
-### 設計考量與相關技術
-**系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
-2. 移動方式:兩輪 or 滑軌懸吊
-3. 供電方式:鋰電池
-4. 聯網方式:WiFi或BT to 手機
-
-**所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
-
-### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
-
----
-## 早晨喚醒系統
-### 應用功能說明
-1. 照度偵測
-2. 藍牙手環監測睡眠品質,並保存睡眠動態紀錄
-3. 手勢偵測與遙控
-3. 鬧鐘喚醒功能：播放預設音檔.Wav, 或播放網路電台(PAM8403+8ohm speaker)
-4. 遙控電動窗簾：紅外線遙控 (IR-LED)
-5. 操控燈光：智慧燈泡＋手勢辨識 (TinyML)
-
-### 設計考量與相關技術
-**系統設計考量：**<br>
-1. 感測方式:照度,手環動態及手勢
-2. 供電方式:音箱用有線電源,手環用電池
-3. 聯網方式:WiFi或BT to 手機
-
-**所需相關技術：**
-1. 照度感測: ADC界面讀取光敏電阻(GL5516)
-2. 睡眠品質監測：藍牙穿戴式手環(ESP32+MPU6050), 運用三軸加速器偵測睡眠動態
-3. 手勢偵測：MPU6050感測手勢動作之三軸加速器數值, 利用TinyML進行AI手勢辨識
-4. 網路電台播放：ESP32 Internet Radio player
-5. 智慧燈泡連接：AWS Alexa介接, 或藍牙命令操控燈光
-
-### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/Future_Home_morning_alarm_system.png?raw=true)
-
 <br>
 <br>
 
