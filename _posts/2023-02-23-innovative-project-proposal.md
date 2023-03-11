@@ -26,9 +26,10 @@
 3. 聯網方式: WiFi 或 BLE 連至 手機電腦
 
 **所需相關技術：**
-1. 監控及打掃路線: 手機電腦 + Cloud database
+1. 監控及打掃路線規劃: 手機電腦 + Cloud database
 2. 影像傳輸: ESP32-CAM模組
 3. 控制:PID controller
+4. 影像辨識: Jetson Nano + IMX219(攝影頭)
 
 
 ### 系統方塊圖
