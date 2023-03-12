@@ -33,8 +33,7 @@
 
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_flying_robot.png?raw=true)
-![](https://github.com/sijop/MCU-project/blob/main/images/images.jfif?raw=true)
+![](https://github.com/sijop/MCU-project/blob/main/images/%E5%BE%AE%E8%BB%9F%E9%AB%94%E6%A8%B9%E6%9E%9D%E5%9C%96.jpg?raw=true)
 
 ---
 <br>
