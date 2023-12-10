@@ -58,7 +58,7 @@ AMB82 MINI has 3 key features, Audio codec, Video codec and NN (build in NPU for
 <tr><td>生成式AI  </td><td>穿戴式chatGPT  </td><td>mic + 1.14" colorTFT</td><td>Speech-to-Text</td><td> Text-to-Speech model  </td><td>TBD</td></tr>
 <tr><td>生成式AI  </td><td>Text-to-MCU    </td><td>combined MCU outputs</td><td>Text-to-MCU   </td><td>running one of above   </td><td>TBD</td></tr>
 <tr><td>
-
+</table>
 * 穿戴式chatGPT : Output Display = 1.14" color TFT, Input = Mic ?
 * To-Be-Discussed: Audio capturing and sending .mp3 file to ChatGP ? Other workaround like bridging through smartphone ?
 
