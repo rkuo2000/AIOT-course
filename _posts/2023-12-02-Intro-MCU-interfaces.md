@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to AIoT MCU & its Interfaces
+title: Edge AI & AIoT MCU & its Interfaces
 author: [Richard Kuo]
 category: [Lecture]
 tags: [jekyll, ai]
