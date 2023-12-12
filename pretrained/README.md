@@ -42,7 +42,7 @@ Evaluation accuracy = ?? %<br>
 ## Pothole Detection
 
 #### Kaggle : [yolov7-pothole-detection](https://www.kaggle.com/code/rkuo2000/yolov7-pothole-detection)
-**[Output](https://www.kaggle.com/code/rkuo2000/yolov7-pothole-detection/output)**  runs/train/yolov7_tiny_pothole_fixed_res/weights/ `best.pt` (???MB)<br>
+**[Output](https://www.kaggle.com/code/rkuo2000/yolov7-pothole-detection/output)**  runs/train/yolov7_tiny_pothole_fixed_res/weights/ `best.pt` (1.17MB)<br>
 
 #### Labels = ['pothole']
 [PotholeClassList.h](https://github.com/rkuo2000/EdgeAI-course/blob/main/pretrained/yolov7_pothole-detection/PotholeClassList.h)<br>
