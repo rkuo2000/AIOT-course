@@ -12,12 +12,18 @@ struct GarbageClassificationItem {
 //// Index number is fixed and hard-coded from training
 //// Set the filter value to 0 to ignore any recognized audios
 
-// ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']
+// ['battery', 'biological', 'brown-glass', 'cardboard', 'clothes', 'green-glass', 'metal', 'paper', 'plastic', 'shoes', 'trash', 'white-glass']
 GarbageClassificationItem garbageNames[6] = {
-    {0, "Cardboard",  1},
-    {1, "Glass",      1},
-    {2, "Metal",      1},
-    {3, "Paper",      1},
-    {4, "Plastic",    1},	
-    {5, "Trash",      1}};
+    {0, "Battery",        1},
+    {1, "Biological",     1},
+    {2, "Brown-glass",    1},
+    {3, "Cardboard",      1},
+    {4, "Clothes",        1},	
+    {5, "Green-glass",    1},
+    {6, "Metal",          1},
+    {7, "Paper",          1},	
+    {8, "Plastic",        1},	
+    {9, "Shoes",          1},
+    {10, "Trash",         1},	
+    {11, "White-glass",   1}};
 #endif
