@@ -1,3 +1,4 @@
 # EdgeAI-course
+## using AMB82-MINI
 
-## pretrained_models = model files for conversion to AMB82-MINI
+## pretrained_models = .h5 files to be converted for AMB82-MINI
