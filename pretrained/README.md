@@ -3,11 +3,11 @@
 ## Emotion Detection
 
 #### Kaggle: [fer2013-cnn](https://www.kaggle.com/code/rkuo2000/fer2013-cnn)
-**[Output](https://www.kaggle.com/code/rkuo2000/fer2013-cnn/output)** `fer2013-cnn.h5` (32.31MB)<br>
+**[Output](https://www.kaggle.com/code/rkuo2000/fer2013-cnn/output)** `fer2013-cnn.h5` (1.26MB)<br>
 <br>
 total params = 103,143<br>
 input_shape = (48,48,1)<br>
-test accuracy = 59.41%<br>
+test accuracy = 54.89%<br>
 
 #### Labels = ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
 [EmotionClassList.h](https://github.com/rkuo2000/EdgeAI-course/blob/main/pretrained/emotion_detection/EmotionClassList.h)<br>
