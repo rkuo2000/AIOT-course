@@ -1,4 +1,4 @@
-# pretrained model from Kaggle projects
+# Edge AI applicatiions - pretrained models
 
 ## Emotion Detection
 
