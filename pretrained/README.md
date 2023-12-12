@@ -23,7 +23,7 @@ input_shape = (224,224,3)<br>
 Evaluation accuracy = ?? %<br>
 
 ##### Labels = ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']
-[GarbageClassList.h]()<br>
+[GarbageClassList.h](https://github.com/rkuo2000/EdgeAI-course/blob/main/pretrained/garbage_classification/GarbageClassList.h)<br>
 
 ---
 ## Garbage12 Classification
@@ -36,4 +36,4 @@ input_shape = (200,200,3)<br>
 Evaluation accuracy = ?? %<br>
 
 #### Labels = ['battery', 'biological', 'brown-glass', 'cardboard', 'clothes', 'green-glass', 'metal', 'paper', 'plastic', 'shoes', 'trash', 'white-glass']<br>
-[GarbageClassList.h]()<br>
+[GarbageClassList.h](https://github.com/rkuo2000/EdgeAI-course/blob/main/pretrained/garbage12_classification/GarbageClassList.h)<br>
