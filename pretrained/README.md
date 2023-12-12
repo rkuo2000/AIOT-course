@@ -35,5 +35,15 @@ total params : 361,580<br>
 input_shape = (200,200,3)<br>
 Evaluation accuracy = ?? %<br>
 
-#### Labels = ['battery', 'biological', 'brown-glass', 'cardboard', 'clothes', 'green-glass', 'metal', 'paper', 'plastic', 'shoes', 'trash', 'white-glass']<br>
+#### Labels = ['battery', 'biological', 'brown-glass', 'cardboard', 'clothes', 'green-glass', 'metal', 'paper', 'plastic', 'shoes', 'trash', 'white-glass']
 [GarbageClassList.h](https://github.com/rkuo2000/EdgeAI-course/blob/main/pretrained/garbage12_classification/GarbageClassList.h)<br>
+
+---
+## Pothole Detection
+
+#### Kaggle : [yolov7-pothole-detection](https://www.kaggle.com/code/rkuo2000/yolov7-pothole-detection)
+**[Output](https://www.kaggle.com/code/rkuo2000/yolov7-pothole-detection/output)**  runs/train/yolov7_tiny_pothole_fixed_res/weights/ `best.pt` (???MB)<br>
+
+#### Labels = ['pothole']
+[PotholeClassList.h](https://github.com/rkuo2000/EdgeAI-course/blob/main/pretrained/yolov7_pothole-detection/PotholeClassList.h)<br>
+
