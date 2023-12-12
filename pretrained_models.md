@@ -9,7 +9,7 @@
 
 ---
 ### Garbage Classification
-#### [Kaggle.com](https://www.kaggle.com/code/rkuo2000/garbage-classification)
+#### Kaggle : [garbage-classification](https://www.kaggle.com/code/rkuo2000/garbage-classification)
 #### Model file : [garbage_cnn.h5](https://www.kaggle.com/code/rkuo2000/garbage-classification/output)  `321.76MB`
 #### Labels = ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']
 #### input_shape = (224,224,3)
