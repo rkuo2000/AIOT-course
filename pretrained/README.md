@@ -4,8 +4,8 @@
 
 #### Kaggle: [fer2013-cnn](https://www.kaggle.com/code/rkuo2000/fer2013-cnn)
 **[Output](https://www.kaggle.com/code/rkuo2000/fer2013-cnn/output)** `fer2013-cnn.h5` (32.31MB)<br>
-
-total params = 103,143
+<br>
+total params = 103,143<br>
 input_shape = (48,48,1)<br>
 test accuracy = 59.41%<br>
 
@@ -17,23 +17,23 @@ test accuracy = 59.41%<br>
 
 #### Kaggle : [garbage-cnn](https://www.kaggle.com/code/rkuo2000/garbage-cnn)
 **[Output](https://www.kaggle.com/code/rkuo2000/garbage-cnn/output)**  `garbage_cnn.h5` (???MB)<br>
+<br>
 total params : 361,190<br>
 input_shape = (224,224,3)<br>
 Evaluation accuracy = ?? %<br>
 
 ##### Labels = ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']
+[GarbageClassList.h]()<br>
 
 ---
 ## Garbage12 Classification
 
 #### Kaggle : [garbage12-cnn](https://www.kaggle.com/code/rkuo2000/garbage12-cnn)
 **[Output](https://www.kaggle.com/code/rkuo2000/garbage12-cnn/output)**  `garbage12_cnn.h5` (???MB)<br>
-
+<br>
 total params : 361,580<br>
 input_shape = (200,200,3)<br>
 Evaluation accuracy = ?? %<br>
 
 #### Labels = ['battery', 'biological', 'brown-glass', 'cardboard', 'clothes', 'green-glass', 'metal', 'paper', 'plastic', 'shoes', 'trash', 'white-glass']<br>
-
-
-
+[GarbageClassList.h]()<br>
