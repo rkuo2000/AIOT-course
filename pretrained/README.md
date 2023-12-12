@@ -1,4 +1,4 @@
-# Edge AI applicatiions - pretrained models
+# pretrained models
 
 ## Emotion Detection
 
