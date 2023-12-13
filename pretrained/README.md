@@ -29,7 +29,7 @@ Evaluation accuracy = 75 %<br>
 ## Garbage12 Classification
 
 #### Kaggle : [garbage12-cnn](https://www.kaggle.com/code/rkuo2000/garbage12-cnn)
-**[Output](https://www.kaggle.com/code/rkuo2000/garbage12-cnn/output)**  `garbage12_cnn.h5` (?? MB)<br>
+**[Output](https://www.kaggle.com/code/rkuo2000/garbage12-cnn/output)**  `garbage12_cnn.h5` (4.42 MB)<br>
 <br>
 total params : 361,580<br>
 input_shape = (200,200,3)<br>
