@@ -18,10 +18,10 @@ Edge AI MCU Capstone Projects
 <tr><td>表情偵測</td><td>電動寵物    </td><td>Camera      </td><td>Image Classification   </td><td>CNN      </td><td> **crop** </td></tr>
 <tr><td>影音互動</td><td>拉拉散步狗</td><td>Mic + Camera  </td><td>Audio + Object Detection</td><td>AudioNN+ObjDet</td><td> **audio retraining**   </td></tr>
 <tr><td>坑洞偵測</td><td>四輪越野車</td><td>Camera        </td><td>Object Detection       </td><td>ObjDet   </td><td> **yolov7-pothole** </td></tr>
-<tr><td>自動駕駛</td><td>水陸特技車</td><td>Camera+MPU9250</td><td>End-to-End Self-driving</td><td>CNN      </td><td> **End-to-End training** </td></tr>
+<tr><td>自動駕駛</td><td>水陸特技車</td><td>Camera+GY953  </td><td>End-to-End Self-driving</td><td>CNN      </td><td> **End-to-End training** </td></tr>
 <tr><td>強化學習</td><td>四輪越野車</td><td>Camera+VL53L0X</td><td>Reinforcement Learning </td><td>CNN      </td><td> **RL-DQN** </td></tr>
 <tr><td>姿態偵測</td><td>體感遊戲 </td><td>Camera         </td><td>Pose Detection         </td><td>PoseNN   </td><td> **yolov8-Pose**</td></tr>
-<tr><td>動作偵測</td><td>體感遊戲 </td><td>MPU6050        </td><td>Gesture Classification</td><td> none </td><td> **I2Cerr** </td></tr>
+<tr><td>動作偵測</td><td>體感遊戲 </td><td>MPU6050        </td><td>Gesture Classification</td><td> none </td><td> ??? </td></tr>
 <tr><td>生成式AI</td><td>穿戴式chatGPT</td><td>mic + 1.14" TFT</td><td>Audio/Image/Gesture/Touch</td><td>NN x3</td><td> **multimodal inputs** </td></tr>
 <tr><td>生成式AI</td><td>Text-to-Code</td><td>none </td><td> **Over-The-Air** </td><td>none</td><td>none</td></tr>
 <tr><td>區塊鏈  </td><td>裝置安全/監控</td><td>none</td><td>Proof-of-Stake</td><td> ??NN+AES?? </td><td>Ledger</td></tr>
