@@ -16,11 +16,11 @@ test accuracy = 54.89%<br>
 ## Garbage Classification
 
 #### Kaggle : [garbage-cnn](https://www.kaggle.com/code/rkuo2000/garbage-cnn)
-**[Output](https://www.kaggle.com/code/rkuo2000/garbage-cnn/output)**  `garbage_cnn.h5` (4.41MB)<br>
+**[Output](https://www.kaggle.com/code/rkuo2000/garbage-cnn/output)**  `garbage_cnn.h5` (4.5MB)<br>
 <br>
 total params : 361,190<br>
 input_shape = (224,224,3)<br>
-Evaluation accuracy = 75 %<br>
+Evaluation accuracy = 59.8 %<br>
 
 ##### Labels = ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']
 [GarbageClassList.h](https://github.com/rkuo2000/EdgeAI-course/blob/main/pretrained/garbage_classification/GarbageClassList.h)<br>
