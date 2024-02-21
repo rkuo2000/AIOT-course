@@ -27,8 +27,6 @@ Edge-AI MCU Capstone Projects
 <tr><td>生成式AI</td><td>Text-to-Code</td><td>none </td><td> **Over-The-Air** </td><td>none</td><td>none</td></tr>
 </table>
 
-* [Gesture Classification](https://eloquentarduino.com/gesture-classification/) with **MPU6050**
-
 ---
 ### 專題計畫之週邊及載具
 <table>
