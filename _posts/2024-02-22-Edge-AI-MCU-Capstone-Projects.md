@@ -62,8 +62,7 @@ Edge-AI MCU Capstone Projects introduction
 <td><img src="https://gcs.rimg.com.tw/g5/cad/e0b/davidhadson493/f/43/3d/22347198425917_866.jpg"></td>
 </tr>
 <tr>
-<td><img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2869/MFG_ESP32-S3-BOX.jpg"></td>
-<td><img src="https://gcs.rimg.com.tw/g1/f/b4/cd/22326084867277_915.jpg"></td>
+<td><img src="https://gcs.rimg.com.tw/g5/2b0/35f/f030133/1/73/c1/22350341930945_637.jpg"></td>
 </tr>
 </table>
 
