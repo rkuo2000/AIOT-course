@@ -56,7 +56,7 @@ Edge-AI MCU Capstone Projects introduction
 <td><img src="https://gcs.rimg.com.tw/g2/f/37/24/21713666818852_729.jpg"></td>
 </tr>
 <tr>
-<td><img src="https://gcs.rimg.com.tw/g4/b3e/53c/jill670522/f/7a/76/22407795079798_688.jpg"></td>
+<td><img src="https://gcs.rimg.com.tw/g1/8/67/0d/22251865967373_423.jpg"></td>
 <td><img src="https://gcs.rimg.com.tw/g4/e40/afa/jif9j8j8/f/3d/2a/22347200521514_469.jpg"></td>
 <td><img src="https://gcs.rimg.com.tw/g9/3c3/78b/ff742155456/d/4e/22139378684238_637.jpg"></td>
 <td><img src="https://gcs.rimg.com.tw/g5/cad/e0b/davidhadson493/f/43/3d/22347198425917_866.jpg"></td>
