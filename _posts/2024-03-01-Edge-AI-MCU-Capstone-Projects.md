@@ -19,7 +19,7 @@ Introduction to projects, development boards, system references, etc.
 7. Function Verification / System Testing
 8. Project Report & Summary
 
-### [Edge-AI MCU project 協作平台](https://sites.google.com/view/edgeaimcucapstoneproject/%E9%A6%96%E9%A0%81)
+### [Edge-AI MCU project 協作平台](https://sites.google.com/view/edgeaimcucapstoneproject/)
 
 ---
 ## Edge-AI Development Boards（開發板）
