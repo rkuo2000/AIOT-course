@@ -166,6 +166,10 @@ Comparing some development boards:<br>
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/bH1XzArE9rM" title="新型開普勒人工智能機器人（帶 40 個軸，展示多項新一代功能，價格揭曉)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+### Black Hornet RC (空拍直昇機)
+<iframe width="785" height="442" src="https://www.youtube.com/embed/8bJwfXAbo7U" title="【飛歐FlyO】C127單槳遙控偵查空拍直昇機（光流定位定高版）美國無人機造型720P廣角攝像頭空拍機" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br>
 <br>
 
