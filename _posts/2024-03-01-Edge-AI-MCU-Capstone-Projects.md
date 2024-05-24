@@ -107,9 +107,7 @@ Comparing some development boards:<br>
 <td><img src="https://gcs.rimg.com.tw/g1/b/31/31/22234164628785_689.jpg"></td>
 <td><img src="https://gcs.rimg.com.tw/g1/3/68/b3/21929115494579_980.jpg"></td>
 <td><img src="https://gcs.rimg.com.tw/g2/2/97/4e/21606776067918_370.jpg"></td>
-<td><img src="https://gcs.rimg.com.tw/g2/8/44/64/21651860715620_880.jpg"></td>
-<td><img src="https://gcs.rimg.com.tw/g1/5/53/3f/21746333748031_651.jpg"></td
-<td><img src="https://gcs.rimg.com.tw/g1/8/67/0d/22251865967373_876.jpg"></td>
+<td><img src="https://gcs.rimg.com.tw/g1/5/53/3f/21746333748031_651.jpg"></td>
 </tr>
 </table>
 
