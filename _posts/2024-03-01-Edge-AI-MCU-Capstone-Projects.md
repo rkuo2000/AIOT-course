@@ -52,33 +52,8 @@ Comparing some development boards:<br>
 ---
 ## Capstone Projects（專題計畫）
 
-<table>
-<tr><th>Type</th><th>Applications   </th><th>Peripherals </th><th>Key Features          </th><th>required APIs/Libs</th></tr>
-<tr><td>AIoT</td><td>Home Appliance</td><td>Camera      </td><td>Food Classification</td><td> imgclass </td></tr>
-<tr><td>Toy</td><td>AI Pet </td><td>Camera+Mic</td><td>Emotion Detection</td><td> audioNN+ObjDet/imgclass </td></tr>
-<tr><td>Education</td><td>AI Tutor</td><td>mic + TFT</td><td>Audio-to-Text</td><td>RecordMP4_HTTP_Post</td></tr>
-<tr><td>Robot</td><td>Toy Car</td><td>Camera </td><td>Pothole Detection</td><td> ObjDet </td></tr>
-<tr><td>Robot</td><td>Toy Car</td><td>Camera+IMU+InfraRed</td><td>Reinforcement Learning</td><td> MPU6050+VL53L0X </td></tr>
-<tr><td>Robot</td><td>Home Agent</td><td>Camera+IMU</td><td> Self-Balancing </td><td> MPU6050 </td></tr>
-<tr><td>Drone</td><td>Quadcopter</td><td>Camera+IMU</td><td> Fly-control </td><td> MPU9250+BMP280 </td></tr>
-<tr><td>GenAI</td><td>Portable ChatGPT</td><td>camera/mic + TFT</td><td>Audio/Image</td><td>CaptureJpeg_HTTP_Post_JpgTxt</td></tr>
-<tr><td>GenAI</td><td>Wearable ChatGPT</td><td>camera/mic + TFT</td><td>Audio/Image/Gesture/Touch</td><td> Multimodal </td></tr>
-</table>
-
-**API status:**<br>
-* imgclass : TO-BE-VERIFIED
-* AudioNN+ObjDet : TO-BE-VERIFIED
-* RecordMP4_HTTP_Post.ino : Ready
-* CaptureJpeg_HTTP_Post_JpgTxt.ino : TO-BE-VERIFIED
-* VL53L0VX_IR_ranger.ino : TO-BE-DEVELOPED
-* MPU6050_DMP6.ino : Ready
-* MPU9250_DMP6.ino : TO-BE-DEVELOPED
-* BMP280_barometer.ino : TO-BE-DEVELOPED
-* ILI9341 2.4" TFT : Ready
-* ST7789  1.3" TFT : TO-BE-DEVELOPED 
-
 ---
-### Vehicles for Modification （改裝載具）
+### Vehicles for Modification （載具）
 <table>
 <tr>
 <td><img src="https://cdn1.techbang.com/system/excerpt_images/113469/post_inpage/57a929bbe81c765717cb2d373d197784.jpg?1709099479"></td>
@@ -110,6 +85,18 @@ Comparing some development boards:<br>
 <td><img src="https://gcs.rimg.com.tw/g1/5/53/3f/21746333748031_651.jpg"></td>
 </tr>
 </table>
+
+
+### Portable ChatGPT
+![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/AMB82-mini_Portable_ChatGPT_small.jpg?raw=true)
+
+---
+### Vacuum Robot
+![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/AMB82-mini_VacuumRobot.jpg?raw=true)
+
+---
+### RoboCar
+![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/AMB82-mini_RoboCar.jpg?raw=true)
 
 ---
 ## System References （系統參考）
