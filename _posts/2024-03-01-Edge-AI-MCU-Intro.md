@@ -24,6 +24,8 @@ Introduction to Edge-AI MCUs, MCU interfaces.
 
 **[Amebapro2 AMB82-mini Arduino getting started](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/)**<br>
 
+Preferences = `https://raw.githubusercontent.com/ambiot/ambpro2_arduino/dev/Arduino_package/package_realtek_amebapro2_early_index.json`<br>
+
 ---
 ### Nvidia Jetson
 <table>
