@@ -110,6 +110,10 @@ Comparing some development boards:<br>
 <td><img src="https://gcs.rimg.com.tw/g1/8/67/0d/22251865967373_876.jpg"></td>
 
 </tr>
+<tr>
+<td><img src="https://gcs.rimg.com.tw/g1/b/31/31/22234164628785_689.jpg"></td>
+<td><img src="https://gcs.rimg.com.tw/g1/3/68/b3/21929115494579_980.jpg"></td>
+</tr>
 </table>
 
 ---
@@ -167,8 +171,13 @@ Comparing some development boards:<br>
 <iframe width="853" height="480" src="https://www.youtube.com/embed/bH1XzArE9rM" title="新型開普勒人工智能機器人（帶 40 個軸，展示多項新一代功能，價格揭曉)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-### Black Hornet RC (空拍直昇機)
+### [Black Hornet RC (空拍直昇機)](https://www.ruten.com.tw/item/show?22234164628785)
 <iframe width="785" height="442" src="https://www.youtube.com/embed/8bJwfXAbo7U" title="【飛歐FlyO】C127單槳遙控偵查空拍直昇機（光流定位定高版）美國無人機造型720P廣角攝像頭空拍機" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+### X450 VTOL Drone
+![](https://gcs.rimg.com.tw/g1/3/68/b3/21929115494579_154.jpg)
+<iframe width="885" height="498" src="https://www.youtube.com/embed/OOTacas2Iog" title="VTOL Drone and Plane ALL-IN-ONE!! // XK X450 Aviator ✈️🚁" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 <br>
