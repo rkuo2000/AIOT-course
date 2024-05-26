@@ -39,7 +39,9 @@ Introduction to Motor Driver ICs, and Motor Control, PWM signals.
 ### L298
 **Pin Out** <br>
 ![](https://www.researchgate.net/publication/350053379/figure/fig3/AS:1083535511302150@1635346405547/4-motor-drive-L298-dual-H-Bridge-IC.ppm)
+
 **Connections**: 4 GPIOs<br>
+
 **Example Code** [RoboCar_L298.ino](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/RoboCar_L298)<br>
 ```
 #define IN1_PIN     5 // IN1 pin 
@@ -61,6 +63,7 @@ void setup()
 ### DRV8833
 **Pin Out** <br>
 ![](https://simple-circuit.com/wp-content/uploads/2023/04/drv8833-module-driver.webp)
+
 **Connections** <br>
 ![](https://lastminuteengineers.com/wp-content/uploads/arduino/Wiring-DRV8833-Motor-Driver-Module-to-Arduino.png)
 
@@ -73,9 +76,11 @@ void setup()
 ### [TB6612FNG](https://dronebotworkshop.com/tb6612fng-h-bridge/)
 **Pin Out**<br>
 ![](https://content.instructables.com/FCN/O9VG/JHATTMWR/FCNO9VGJHATTMWR.png?auto=webp&fit=bounds&frame=1&width=512)
+
 **Connecitons**<br>
 ![](https://a.pololu-files.com/picture/0J12386.1200.png?9d691fb1f78beb48f47e618655d5905a)
 ![](https://i0.wp.com/dronebotworkshop.com/wp-content/uploads/2019/12/TB6612FNG-Arduino-Hookup.jpeg?w=768&ssl=1)
+
 **Example Code**<br>
 [RoboCar_TB6612_PWM.ino](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/RoboCar_TB6612_PWM)<br>
 
