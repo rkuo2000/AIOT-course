@@ -70,7 +70,7 @@ void setup()
 **Example Code** <br>
 [RoboCar_DRV8833_GPIO.ino](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/RoboCar_DRV8833_GPIO)<br>
 
-[RoboCar_DRV8833_PWM.ino](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/RoboCar_DRV8833_PWM)<br>
+[RoboCar_DRV8833_GPIOPWM.ino](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/RoboCar_DRV8833_GPIOPWM)<br>
 
 ---
 ### [TB6612FNG](https://dronebotworkshop.com/tb6612fng-h-bridge/)
