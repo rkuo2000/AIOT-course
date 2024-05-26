@@ -63,6 +63,7 @@ void setup()
 ![](https://simple-circuit.com/wp-content/uploads/2023/04/drv8833-module-driver.webp)
 **Connections** <br>
 ![](https://lastminuteengineers.com/wp-content/uploads/arduino/Wiring-DRV8833-Motor-Driver-Module-to-Arduino.png)
+
 **Example Code** <br>
 [RoboCar_DRV8833_GPIO.ino](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/RoboCar_DRV8833_GPIO)<br>
 
