@@ -9,20 +9,22 @@ tags: [jekyll, ai]
 Introduction to Motor Driver ICs, and Motor Control, PWM signals.
 
 ---
-## Li-Battery
+## Lithium-ion Battery
+**1P = 3.7V, 2P = 7.4V, 3P = 11.1V** <br>
 
-### 18650 Battery
-3.7V x 11000mAh
+### 18650 cell
+3.7V x 11000mAh<br>
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7DtHjhAJtyeQuSswh852Sccrlg0V6jWecMg&s)
 
-### Li-Battery
-
-### Battery Charger （鋰電池充電器）
+### LiPO battery cell
+![](https://www.ufinebattery.com/images/upload/blog-lipo-battery-cell.webp)
+![](https://i0.wp.com/dronebotworkshop.com/wp-content/uploads/2022/02/lipo-batteries.jpg)
 
 ---
 ## 5V regulator (穩壓IC)
 
 ### L7805CV (STMicro)
-**Pin Out:**<br>
+**Pin Out**<br>
 ![](https://components101.com/sites/default/files/component_pin/7805-Voltage-Regulator-Pinout.png)
 
 ---
@@ -35,11 +37,10 @@ Introduction to Motor Driver ICs, and Motor Control, PWM signals.
 
 ---
 ### L298
-**Pin Out:** <br>
+**Pin Out** <br>
 ![](https://www.researchgate.net/publication/350053379/figure/fig3/AS:1083535511302150@1635346405547/4-motor-drive-L298-dual-H-Bridge-IC.ppm)
-
-**Connections:** 4 GPIOs<br>
-**Example Code:** [RoboCar_L298.ino](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/RoboCar_L298/RoboCar_L298.ino)<br>
+**Connections**: 4 GPIOs<br>
+**Example Code** [RoboCar_L298.ino](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/RoboCar_L298)<br>
 ```
 #define IN1_PIN     5 // IN1 pin 
 #define IN2_PIN     6 // IN2 pin 
@@ -58,98 +59,28 @@ void setup()
 
 ---
 ### DRV8833
-**Pin Out:** <br>
+**Pin Out** <br>
 ![](https://simple-circuit.com/wp-content/uploads/2023/04/drv8833-module-driver.webp)
-**Connections:** <br>
+**Connections** <br>
 ![](https://lastminuteengineers.com/wp-content/uploads/arduino/Wiring-DRV8833-Motor-Driver-Module-to-Arduino.png)
-**Example Code:** <br>
+**Example Code** <br>
+[RoboCar_DRV8833_GPIO.ino](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/RoboCar_DRV8833_GPIO)<br>
+
+[RoboCar_DRV8833_PWM.ino](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/RoboCar_DRV8833_PWM)<br>
 
 ---
 ### [TB6612FNG](https://dronebotworkshop.com/tb6612fng-h-bridge/)
-
-**Arduino conneciton**<br>
+**Pin Out**<br>
+![](https://content.instructables.com/FCN/O9VG/JHATTMWR/FCNO9VGJHATTMWR.png?auto=webp&fit=bounds&frame=1&width=512)
+**Connecitons**<br>
+![](https://a.pololu-files.com/picture/0J12386.1200.png?9d691fb1f78beb48f47e618655d5905a)
 ![](https://i0.wp.com/dronebotworkshop.com/wp-content/uploads/2019/12/TB6612FNG-Arduino-Hookup.jpeg?w=768&ssl=1)
+**Example Code**<br>
+[RoboCar_TB6612_PWM.ino](https://github.com/rkuo2000/Arduino/blob/master/examples/AMB82-MINI/RoboCar_TB6612_PWM)<br>
 
-```
-/*
-  TB6612FNG H-Bridge Demo
-  TB6612-Demo.ino
-  Demonstrates use of TB6612FNG H-Bridge Motor Controller
-  Drives two DC Motors
- 
-  DroneBot Workshop 2019
-  https://dronebotworkshop.com
-*/
- 
-// Motor A
- 
-int pwmA = 5;
-int in1A = 3;
-int in2A = 4;
- 
-// Motor B
- 
-int pwmB = 6;
-int in1B = 7;
-int in2B = 8;
- 
-// Speed control potentiometers
- 
-int SpeedControl1 = A0;  
-int SpeedControl2 = A1;
- 
- 
-// Motor Speed Values - Start at zero
- 
-int MotorSpeed1 = 0;
-int MotorSpeed2 = 0;
- 
-void setup()
- 
-{
- 
-  // Set all the motor control pins to outputs
- 
-  pinMode(pwmA, OUTPUT);
-  pinMode(pwmB, OUTPUT);
-  pinMode(in1A, OUTPUT);
-  pinMode(in2A, OUTPUT);
-  pinMode(in1B, OUTPUT);
-  pinMode(in2B, OUTPUT);
-   
-}
- 
-void loop() {
-  
-  // Set Motor A forward
- 
-  digitalWrite(in1A, HIGH);
-  digitalWrite(in2A, LOW);
- 
- // Set Motor B forward
- 
-  digitalWrite(in1B, HIGH);
-  digitalWrite(in2B, LOW);
-  
-  
-  // Read potentiometers and convert to range of 0-255
-  
-  MotorSpeed1 = map(analogRead(SpeedControl1), 0, 1023, 0, 255);
-  MotorSpeed2 = map(analogRead(SpeedControl2), 0, 1023, 0, 255);  
-     
-  
-  // Set the motor speeds
-  
-  analogWrite(pwmA, MotorSpeed1);
-  analogWrite(pwmB, MotorSpeed2);
-  
-}
-```
 ---
 ## Pulse Width Modulation (PWM) signals
-
 ![](https://i0.wp.com/dronebotworkshop.com/wp-content/uploads/2017/02/PWM-Diagram-1-e1504972178711.jpg)
-
 
 ---
 ## BLDC Motor Control
