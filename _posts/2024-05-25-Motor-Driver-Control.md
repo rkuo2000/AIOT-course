@@ -27,6 +27,12 @@ Introduction to Motor Driver ICs, and Motor Control, PWM signals.
 **Pin Out**<br>
 ![](https://components101.com/sites/default/files/component_pin/7805-Voltage-Regulator-Pinout.png)
 
+### 2N2222 (PNP Transistor)
+**Pin Out** <br>
+![](https://www.componentsinfo.com/wp-content/uploads/2018/12/2n2222-transistor-pinout-equivalent.gif)
+**Connections** <br>
+![](https://www.diyengineers.com/wp-content/uploads/2020/12/Featured_Img.png)
+
 ---
 ## Motor Driver
 
