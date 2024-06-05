@@ -129,7 +129,8 @@ CMR <  CNR: PWM output low <br>
 <td><img src="https://pic.pimg.tw/magicjackting/1447739085-239160220.png"></td>
 </tr>
 </table>
-![](https://pic.pimg.tw/magicjackting/1450787341-3597609114_n.png?v=1461809344)
+
+![](https://pic.pimg.tw/magicjackting/1450787341-3597609114_n.png)
 ![](https://pic.pimg.tw/magicjackting/1461659401-258467416.png)
 
 ---
