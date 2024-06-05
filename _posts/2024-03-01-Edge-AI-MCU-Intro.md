@@ -132,9 +132,6 @@ CMR <  CNR: PWM output low <br>
 ![](https://pic.pimg.tw/magicjackting/1450787341-3597609114_n.png?v=1461809344)
 ![](https://pic.pimg.tw/magicjackting/1461659401-258467416.png)
 
-![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/Example_BMP085.jpg?raw=true)
-![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/Example_BMP280.jpg?raw=true)
-
 ---
 ### SPI (Serial peripheral interface)
 [Introduction to SPI Interface](https://www.analog.com/en/analog-dialogue/articles/introduction-to-spi-interface.html)<br>
