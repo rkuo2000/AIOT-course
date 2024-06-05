@@ -142,8 +142,6 @@ CMR <  CNR: PWM output low <br>
 * **MOSI**: Master out, slave in
 * **MISO**: Master in, slave out
 
-![](https://www.analog.com/-/media/images/analog-dialogue/en/volume-52/number-3/articles/introduction-to-spi-interface/205973_fig_01.png?la=en&imgver=2)
-
 ---
 ## I2S (Inter-IC Sound bus)
 [Introduction to the I2S Interface](https://www.allaboutcircuits.com/technical-articles/introduction-to-the-i2s-interface/)
