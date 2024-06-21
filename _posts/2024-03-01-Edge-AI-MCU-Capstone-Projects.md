@@ -50,55 +50,6 @@ Comparing some development boards:<br>
 * [Amebapro2 AMB82-mini Arduino getting started](https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/)<br>
 
 ---
-## Capstone Projects（專題計畫）
-
----
-### Vehicles for Modification （載具）
-<table>
-<tr>
-<td><img src="https://cdn1.techbang.com/system/excerpt_images/113469/post_inpage/57a929bbe81c765717cb2d373d197784.jpg?1709099479"></td>
-<td><img src="https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2869/MFG_ESP32-S3-BOX.jpg"></td>
-<td><img src="https://a.rimg.com.tw/e1/ebay/2e0/56a/devkits%40ebay/9/d3/58/3771c98e0b7103dfaff026bb9f582e25_30222264519512.jpg"></td>
-</tr>
-<tr>
-<td><img src="https://a.rimg.com.tw/e1/ebay/c03/f47/agent0029346%40ebay/f/ce/0a/54dfde3ef38febef5598e670c1278f17_30221118817802.jpg"></td>
-<td><img src="https://down-tw.img.susercontent.com/file/5a25f3ff18bfb194c3bb1ec786431a73"></td>
-<td><img src="https://img.pchome.com.tw/cs/items/DEASMYA900FN51P/000001_1665724453.jpg"></td>
-<td><img src="https://i.ebayimg.com/images/g/wLsAAOSw2IFkOmoL/s-l400.jpg"></td>
-</tr>
-<tr>
-<td><img src="https://gcs.rimg.com.tw/g4/e40/afa/jif9j8j8/f/3d/2a/22347200521514_469.jpg"></td>
-<td><img src="https://gcs.rimg.com.tw/g5/cad/e0b/davidhadson493/f/43/3d/22347198425917_866.jpg"></td>
-<td><img src="https://github.com/rkuo2000/EdgeAI-course/blob/main/images/ESP32_RoboCar.jpg?raw=true"></td>
-<td><img src="https://github.com/rkuo2000/Robotics/blob/main/images/Vacuum_Robot.jpg?raw=true"></td>
-</tr>
-<tr>
-<td><img src="https://github.com/rkuo2000/EdgeAI-course/blob/main/images/Self-Balancing-Car.jpeg?raw=true"></td>
-<td><img src="https://s.yimg.com/zp/images/6192E5630B431848DEE2F7C96305532D6F700286"></td>
-<td><img src="https://proguideah.com/wp-content/uploads/2024/01/LG-smart-home-AI-agent-CES-2024.jpg"></td>
-<td><img src="https://www.thefunaticsblog.com/wp-content/uploads/2023/10/Screenshot-2023-10-09-090123-1024x597.jpg"></td>
-</tr>
-<tr>
-<td><img src="https://gcs.rimg.com.tw/g1/b/31/31/22234164628785_689.jpg"></td>
-<td><img src="https://gcs.rimg.com.tw/g1/3/68/b3/21929115494579_980.jpg"></td>
-<td><img src="https://gcs.rimg.com.tw/g2/2/97/4e/21606776067918_370.jpg"></td>
-<td><img src="https://gcs.rimg.com.tw/g1/5/53/3f/21746333748031_651.jpg"></td>
-</tr>
-</table>
-
-
-### Portable ChatGPT
-![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/AMB82-mini_Portable_ChatGPT_small.jpg?raw=true)
-
----
-### Vacuum Robot
-![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/AMB82-mini_VacuumRobot.jpg?raw=true)
-
----
-### RoboCar
-![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/AMB82-mini_RoboCar.jpg?raw=true)
-
----
 ## System References （系統參考）
 
 ### EMO
@@ -160,6 +111,20 @@ Comparing some development boards:<br>
 ### X450 VTOL Drone
 ![](https://gcs.rimg.com.tw/g1/3/68/b3/21929115494579_154.jpg)
 <iframe width="885" height="498" src="https://www.youtube.com/embed/OOTacas2Iog" title="VTOL Drone and Plane ALL-IN-ONE!! // XK X450 Aviator ✈️🚁" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+## Capstone Projects（專題計畫）
+
+### [portable ChatGPT](https://github.com/rkuo2000/portable-ChatGPT)
+<iframe width="658" height="370" src="https://www.youtube.com/embed/7rfmXPqyLF0" title="AMB82-mini Portable ChatGPT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+### Vacuum Robot
+![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/AMB82-mini_VacuumRobot.jpg?raw=true)
+
+---
+### RoboCar
+![](https://github.com/rkuo2000/EdgeAI-course/blob/main/images/AMB82-mini_RoboCar.jpg?raw=true)
 
 <br>
 <br>
